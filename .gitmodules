@@ -1,0 +1,6 @@
+[submodule "libsuinput"]
+	path = libsuinput
+	url = https://github.com/tuomasjjrasanen/libsuinput
+[submodule "openh264"]
+	path = openh264
+	url = https://github.com/cisco/openh264
